@@ -1,7 +1,5 @@
-# Week2Day3
-Containing code for the Music Player project
-
-## Assignment:
+# POC Music Player
+## Challenge:
 Create a Music player application like Spotify
 1. User should be able to make new Playlist and add songs from the saved songs on the device
 2. User can play, pause and stop the songs from the Status bar
